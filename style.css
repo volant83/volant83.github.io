@@ -1,0 +1,19 @@
+body {
+  font-family: calibri;
+  line-height: 1.5;
+
+  background-color: #000000;
+  color: #ffffff;
+
+  width: 980px;
+  margin: 0 auto;
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 0;
+}
+body > h2 {
+    font-size: 25;
+    text-align: center;
+}
